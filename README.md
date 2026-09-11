@@ -30,19 +30,18 @@ Criar uma experiência de navegação simples e intuitiva, permitindo que o usu�
 🎨 Projeto no Figma
 
 "🔗 Visualizar protótipo no Figma" (https://www.figma.com/proto/qHulN9C6qTfs43mLc942jX/Sem-t%C3%ADtulo?node-id=1-2&p=f&t=sS0pdVy0B2NXDnPJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1)
-
 ## 🖼️ Imagens do projeto
 
 <p align="center">
-  <img src="./home1.jpg" width="250" height="300">
-  <img src="./login.jpg" width="250" height="300">
-  <img src="./profile.jpg" width="250" height="300">
+  <img src="./home1.jpg" width="30%">
+  <img src="./login.jpg" width="30%">
+  <img src="./profile.jpg" width="30%">
 </p>
 
 <p align="center">
-  <img src="./settings.jpg" width="250" height="300">
-  <img src="./tela1.jpg" width="250" height="300">
-  <img src="./tela2.jpg" width="250" height="300">
+  <img src="./settings.jpg" width="30%">
+  <img src="./tela1.jpg" width="30%">
+  <img src="./tela2.jpg" width="30%">
 </p>
 
 📚 Área de estudo
